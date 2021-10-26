@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://cdn.treehouseinternetgroup.com/cms_images/48/LJHealthyBS-Logo-Services-RGB.png" alt="" style="width:250px">
+            <img src="https://cdn.treehouseinternetgroup.com/cms_images/3168/gs-by-liberty.svg" alt="" style="width:250px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Healthy Basement Systems
+                    &copy;2021 Gutter Shutter by Liberty
                 </p>
             </div>
         </div>
